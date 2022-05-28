@@ -1,0 +1,26 @@
+.left{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: aqua; */
+}
+header i{
+    cursor: pointer;
+}
+.center{
+    display: flex;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 40px;
+    border-radius: 50%;
+}
+.right{
+    display: flex;
+}
+.left .logo i{
+    color: red;
+    margin-left: 2rem;
+}
